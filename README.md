@@ -1,2 +1,2 @@
-*** 📧 Email Validator ***
+** 📧 Email Validator **
 The Email Validator is a sleek, real-time email validation tool built entirely with HTML, CSS, and JavaScript. It provides instant feedback as the user types, ensuring that email addresses are entered in the correct format. The project is lightweight, responsive, and requires no external libraries, making it ideal for embedding into forms, sign-up pages, or standalone utilities.
